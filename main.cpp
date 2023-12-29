@@ -88,7 +88,7 @@ vector<double> exact_solution(int n, vector<double> x_i){
  * task 7 is find local errors of the Runge-Kutta solution
  * task 8 is find global errors of the Euler's solution
  * task 9 is find global errors of the improved Euler's solution
- * task 10 is fidn global errors of the Runge-Kutta solution
+ * task 10 is find global errors of the Runge-Kutta solution
  */
 
 int main() {
